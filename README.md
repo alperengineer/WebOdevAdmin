@@ -1,7 +1,5 @@
 # Mekabul React Front-End
 
-Vercel linki: [https://mekanbul-frontend-asimsinan.vercel.app](https://mekanbul-frontend-asimsinan.vercel.app)
-
 ## Bileşenler
 1. **Navbar:** Navigasyon Çubuğu
 2. **Header:** Başlık
